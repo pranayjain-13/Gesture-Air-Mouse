@@ -198,10 +198,9 @@ Gesture-Air-Mouse/
 ├── 📂 air_mouse/
 │   └── air_mouse.ino
 ├── 📂 images/
-│   ├── demo.gif
+│   ├── demo.mp4
 │   └── circuit.png
 ├── 📄 README.md
-├── 📄 .gitignore
 └── 📄 LICENSE
 ```
 
